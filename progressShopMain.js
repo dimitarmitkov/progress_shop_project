@@ -47,17 +47,18 @@ function fillElement(el, col) {
         //elements to add section
         el.innerHTML += `<div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a  href="#"><img id = "image${i}" class="card-img-top" alt=""></a>
+              <a><img id = "image${i}" class="card-img-top"></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">${objVal[1]}</a>
+                  <a>${objVal[1]}</a>
                 </h4>
                 <h5>${currency} ${price}</h5>
                 <p class="card-text">${available}</p>
                 <p class="card-text">${delivery}</p>
               </div>
               <div class="card-footer">
-                <small class="text-muted">${ratingElement}</small>
+<!--                <small class="text-muted">${ratingElement}</small>-->
+                <small class="text-primary">${ratingElement}</small>
               </div>
             </div>`
         //end of elements to add section

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ce3b308-4b39-480e-a920-d24608b00e74" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/progress.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/progress.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/progress.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/progress_shop_project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/shop-homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/shop-homepage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -10690,7 +10690,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../progress_shop_project" />
   </component>
   <component name="ProjectId" id="1gPK0n8aUk1ukbtsF3q6xJAOStP" />
   <component name="ProjectViewState">
@@ -10728,7 +10728,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598010573635</updated>
       <workItem from="1598010576367" duration="20120000" />
-      <workItem from="1598186610063" duration="3769000" />
+      <workItem from="1598186610063" duration="8821000" />
     </task>
     <servers />
   </component>
@@ -10756,5 +10756,9 @@
       <screen x="0" y="23" width="1280" height="741" />
     </state>
     <state width="1259" height="185" key="GridCell.Tab.0.right/0.23.1280.741@0.23.1280.741" timestamp="1598180429469" />
+    <state x="240" y="132" key="Vcs.Push.Dialog.v2" timestamp="1598190924566">
+      <screen x="0" y="23" width="1280" height="741" />
+    </state>
+    <state x="240" y="132" key="Vcs.Push.Dialog.v2/0.23.1280.741@0.23.1280.741" timestamp="1598190924566" />
   </component>
 </project>
