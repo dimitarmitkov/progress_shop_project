@@ -40,7 +40,7 @@ function fillElement(el, col) {
         //price, delivery and availability section
         let price = objVal[3] > 0 ? objVal[2] : "Out Of Stock";
         let currency = objVal[3] > 0 ? objVal[5] : "";
-        let available = objVal[3] > 0 ? `Stock: ${objVal[3]} pcs` : "";
+        let available = objVal[3] > 0 ? `Available products: ${objVal[3]} pcs` : "";
         let delivery = objVal[3] > 0 ? `Delivery on ${formatted_date}` : "";
         //end of price, delivery and availability section
 

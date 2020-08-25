@@ -1,1 +1,1 @@
-export default ["All","Available","Out of Stock"];
+export default ["All","Available","Out Of Stock"];
