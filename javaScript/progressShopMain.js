@@ -1,4 +1,4 @@
-import collection from "./data.js"
+import collection from "../data/data.js"
 
 //adding event listener, it will be handled by clickHandler function
 document.addEventListener("click", clickHandler)
@@ -57,7 +57,6 @@ function fillElement(el, col) {
                 <p class="card-text">${delivery}</p>
               </div>
               <div class="card-footer">
-<!--                <small class="text-muted">${ratingElement}</small>-->
                 <small class="text-primary">${ratingElement}</small>
               </div>
             </div>`

@@ -10701,16 +10701,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../progress_shop_project/img" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../progress_shop_project/javaScript" />
+      <recent name="$PROJECT_DIR$/../progress_shop_project/data" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../progress_shop_project/img" />
       <recent name="$PROJECT_DIR$/vendor/bootstrap" />
       <recent name="$PROJECT_DIR$/my" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="progressShopMain.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../progress_shop_project/progressShopMain.js" working-dir="$PROJECT_DIR$/../progress_shop_project">
+    <configuration name="progressShopMain.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../progress_shop_project/javaScript/progressShopMain.js" working-dir="$PROJECT_DIR$/../progress_shop_project">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -10728,7 +10733,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598010573635</updated>
       <workItem from="1598010576367" duration="20120000" />
-      <workItem from="1598186610063" duration="8821000" />
+      <workItem from="1598186610063" duration="12901000" />
     </task>
     <servers />
   </component>
