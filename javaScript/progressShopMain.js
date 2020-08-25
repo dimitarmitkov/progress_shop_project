@@ -77,7 +77,7 @@ fillElement(element, collection);
 //view section, in this section view can be switched between all, available and out of stock items
 function clickHandler(e) {
 
-    if (e.target.innerText === "Available") {
+    if (e.target.innerText.toLowerCase() === "available") {
         let selectedCollection = [];
         element.innerHTML = "";
 
@@ -87,7 +87,7 @@ function clickHandler(e) {
         fillElement(element, selectedCollection);
     }
 
-    if (e.target.innerText === "Out of Stock") {
+    if (e.target.innerText.toLowerCase() === "out of stock") {
         let selectedCollection = [];
         element.innerHTML = "";
 
@@ -97,7 +97,7 @@ function clickHandler(e) {
         fillElement(element, selectedCollection)
     }
 
-    if (e.target.innerText === "All") {
+    if (e.target.innerText.toLowerCase() === "all") {
         element.innerHTML = "";
 
         fillElement(element, collection)
